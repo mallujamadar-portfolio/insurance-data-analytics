@@ -29,7 +29,7 @@ The project uses **SQL, Excel, Python, Power BI and Tableau** to transform insur
 
 ## 🛠️ Tools & Technologies
 
-- SQL / MySQL
+- MySQL
 - Microsoft Excel
 - Python
 - Pandas

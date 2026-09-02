@@ -62,7 +62,7 @@ The dashboard analyzes:
 
 ### Dashboard Preview
 
-![Power BI Insurance Dashboard](Power_BI_Dashboard.png)
+![Power BI Insurance Dashboard](power_BI_Dashboard.png)
 
 ---
 
@@ -84,7 +84,7 @@ The Claims Dashboard analyzes:
 
 ### Claims Dashboard Preview
 
-![Insurance Claims Dashboard](Tableau_Dashboard.png)
+![Insurance Claims Dashboard](tableau_Dashboard.png)
 
 ---
 
@@ -102,7 +102,7 @@ Tableau was used to create interactive insurance dashboards and analyze:
 
 ### Tableau Dashboard Preview
 
-![Tableau Insurance Dashboard](Tableau_Dashboard.png)
+![Tableau Insurance Dashboard](tableau_Dashboard.png)
 
 ---
 
@@ -127,9 +127,9 @@ Libraries used:
 
 ### Python Analysis
 
-![Python Insurance Analysis](Python_Analysis.png)
+![Python Insurance Analysis](python_Analysis.png)
 
-![Python Insurance Analysis 2](Python_Analysis_2.png)
+![Python Insurance Analysis 2](python_Analysis_2.png)
 
 ---
 
@@ -167,7 +167,7 @@ The analysis provides insights into:
 
 ### Key Insights
 
-![Key Insights](Key_Insights.png)
+![Key Insights](key_Insights.png)
 
 ---
 
@@ -186,7 +186,7 @@ Based on the analysis, the following recommendations can help improve insurance 
 
 ### Recommendations
 
-![Recommendations](Recommendations.png)
+![Recommendations](recommendations.png)
 
 ---
 

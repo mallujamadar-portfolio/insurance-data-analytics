@@ -149,7 +149,7 @@ The analysis provides insights into:
 
 ### Key Insights
 
-![Key Insights](key_Insights.png)
+![Key Insights](key_insights.png)
 
 ---
 

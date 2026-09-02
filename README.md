@@ -231,6 +231,6 @@ insurance-data-analytics/
 
 ---
 
-# 👨‍💻 Perpardy by
+# 👨‍💻 Perpaerdy by
 
 **Mallikarjun**

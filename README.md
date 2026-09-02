@@ -43,30 +43,7 @@ The project uses **SQL, Excel, Python, Power BI and Tableau** to transform insur
 
 # 📊 Dashboards & Analysis
 
-## 1. Power BI – Insurance Policy & Customer Dashboard
-
-The dashboard analyzes:
-
-- Total Customers
-- Active Policies
-- Total Premium
-- Total Policies
-- Renewal Rate
-- Lapse Rate
-- Premium Trend Over Time
-- Premium by Policy Type
-- Policies by Type
-- Customers by Age Group
-- Policies by Policy Type
-- Claims by Claim Status
-
-### Dashboard Preview
-
-![Power BI Insurance Dashboard](power_BI_Dashboard.png)
-
----
-
-## 2. Power BI – Insurance Claims Dashboard
+## 1. Power BI – Insurance Claims Dashboard
 
 The Claims Dashboard analyzes:
 
@@ -84,21 +61,26 @@ The Claims Dashboard analyzes:
 
 ### Claims Dashboard Preview
 
-![Insurance Claims Dashboard](tableau_Dashboard.png)
+![Power BI Insurance Dashboard](power_BI_Dashboard.png)
 
 ---
 
-## 3. Tableau – Insurance Analysis
+## 2. Tableau – Insurance Policy & Customer Dashboard
 
 Tableau was used to create interactive insurance dashboards and analyze:
 
-- Policy performance
-- Customer trends
-- Premium performance
-- Claims
-- Policy types
-- Renewal status
-- Payment status
+- Total Customers
+- Active Policies
+- Total Premium
+- Total Policies
+- Renewal Rate
+- Lapse Rate
+- Premium Trend Over Time
+- Premium by Policy Type
+- Policies by Type
+- Customers by Age Group
+- Policies by Policy Type
+- Claims by Claim Status
 
 ### Tableau Dashboard Preview
 
@@ -106,7 +88,7 @@ Tableau was used to create interactive insurance dashboards and analyze:
 
 ---
 
-## 4. Python Statistical Analysis
+## 3. Python Statistical Analysis
 
 Python was used for exploratory and statistical analysis.
 
@@ -249,6 +231,6 @@ insurance-data-analytics/
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 Perpardy by
 
-**Your Name**
+**Mallikarjun**
